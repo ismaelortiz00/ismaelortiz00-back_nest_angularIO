@@ -11,6 +11,7 @@ import { InputTextModule } from 'primeng/inputtext';
 import { PasswordModule } from 'primeng/password';
 import { CheckboxModule } from 'primeng/checkbox';
 import { ButtonModule } from 'primeng/button';
+import { RippleModule } from 'primeng/ripple';
 
 
 
@@ -31,6 +32,7 @@ import { ButtonModule } from 'primeng/button';
     CheckboxModule,
     ButtonModule,
     InputTextModule,
+    RippleModule,
 
   ]
 })

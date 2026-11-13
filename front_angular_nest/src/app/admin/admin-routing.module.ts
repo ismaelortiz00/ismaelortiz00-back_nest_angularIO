@@ -18,6 +18,7 @@ const routes: Routes = [
       { path: '', redirectTo: 'perfil', pathMatch: 'full' },
       { path: 'perfil', component: PerfilComponent },
       { path: 'categoria', component: CategoriaComponent },
+      { path:"producto",component:ProductoComponent },
       { path: 'producto', component: ProductoComponent },
       { path: 'pedido', component: ListaPedidoComponent },
       { path: 'pedido/nuevo', component: NuevoPedidoComponent },
